@@ -5,3 +5,5 @@ puts "hello"
 p "whatever"
 
 print "melanie"
+
+pluts "melanie"
